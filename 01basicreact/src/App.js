@@ -23,3 +23,6 @@ function App() {
 }
 
 export default App;
+
+// run the build server which netlify and vercel actually run to actually to run the application
+// the build folder contains the final javascript version of everything that's required to run this application
